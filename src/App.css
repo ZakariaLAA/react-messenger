@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  
+}
+.app__messages{
+  margin-bottom: 15%;
+}
+.app__formControl{
+  display: flex !important;
+  flex-direction: row !important;
+ 
+}
+.app__iconButton{
+  margin-right: 6px !important;
+}
+.app_sendIcon{
+  font-size: 35px !important;color: rgb(0, 153, 255) !important;
+}
+.app__input{
+  flex :1 ;margin-left: 7px;
+}
+.app__form{
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: white;
+  width: 99%;
+  
+}
+
+.app_icons{
+  font-size: 40px !important;
+  margin-right:7px;
+  margin-left: 0px;
+padding-top: 6px;
+color: rgb(0, 153, 255) !important;
+}

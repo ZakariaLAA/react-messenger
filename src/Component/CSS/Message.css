@@ -1,0 +1,32 @@
+.message{
+    padding:10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+.message_user{
+    margin-left: auto;
+    color:white;
+    text-align: left;
+}
+
+.message__userCard{
+background-color: rgb(0, 153, 255) !important;
+border-radius:99px 0px 99px 99px !important;
+
+}
+.message__name{
+    font-size: 13px;
+    padding: 0px;
+    margin: 10px;
+    color: #b5b5b5;
+    text-align: left;
+}
+.message__userCard > .message__typo {
+color: white !important;
+}
+.message__questCard{
+  background-color: #e9e9 !important;
+  border-radius:99px 99px 99px 0px !important;
+
+}
