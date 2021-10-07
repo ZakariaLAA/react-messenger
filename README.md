@@ -1,4 +1,4 @@
-Configure firebase by aditing firebase.js
+Configure firebase by editing firebase.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Available Scripts
